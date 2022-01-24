@@ -1,4 +1,5 @@
-"headers": [
+{
+  "headers": [
   "Gramatas ID",
   "Nosaukums",
   "Autors",
@@ -22,7 +23,7 @@
    "Klanu kaķi 3. Noslēpumu mežs",
    "Ērina Hantere", 
    "Latviešu valoda "
-  ]
+  ],
   [
     4,
    "Klanu kaķi 4.Tuvojas negaiss",
@@ -30,3 +31,4 @@
    "Latviešu valoda "
   ]
 ]
+}
