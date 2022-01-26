@@ -1,0 +1,26 @@
+[
+  {  
+   "Gramatas ID": 1,
+   "Nosaukums": "Klanu kaķi 1. Brīvībā",
+   "Autors": "Ērina Hantere", 
+   "Valoda": "Latviešu valoda"
+   },
+  {
+   "Gramatas ID": 2,
+   "Nosaukums": "Klanu kaķi 2. Uguns un ledus",
+   "Autors": "Ērina Hantere", 
+   "Valoda": "Latviešu valoda "    
+  },
+  {
+   "Gramatas ID": 3,
+   "Nosaukums": "Klanu kaķi 3. Noslēpumu mežs",
+   "Autors": "Ērina Hantere", 
+   "Valoda": "Latviešu valoda "
+  },
+  {
+  "Gramatas ID": 4,
+   "Nosaukums": "Klanu kaķi 4.Tuvojas negaiss",
+   "Autors": "Ērina Hantere", 
+   "Valoda": "Latviešu valoda "    
+  }
+]
