@@ -1,7 +1,8 @@
 function fetchData() {
-  fetch("./data2.json").then(response => {
+  fetch("./dati2.json")
+  .then(response => {
     if (!response.ok) {
-      throw Error("Kļūda!");
+      throw Error("error");
     }
 
     return response.json();
@@ -14,7 +15,7 @@ function fetchData() {
             <td>${persona.Gramatas ID}</td>
             <td>${persona.Nosaukums}</td>
             <td>${persona.Autors}</td>
-            <td>${persona.Valoda}</td>
+            <td>${persona.Valoda}</td>            
           </tr>
       `;
     })
