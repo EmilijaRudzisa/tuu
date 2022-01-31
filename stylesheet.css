@@ -6,7 +6,7 @@
   font-weight: bold;
 }
 .table thead th {
-  background: #950000;
+  background: #fb82ff;
   color: rgb(0, 0, 0);
 }
 .table td,
@@ -14,9 +14,9 @@
   padding: 10px 20px;
 }
 .table tbody tr :nth-of-type(even) {
-background: rgb(0, 250, 83);
+background: rgb(238, 112, 200);
 }
 
 .table tbody tr :last-of-type {
- border-bottom: 2px solid #890095;
+ border-bottom: 2px solid #e96af5;
 }

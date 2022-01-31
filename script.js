@@ -12,10 +12,10 @@ function fetchData() {
     const tabula = data.map(persona => {
       return `
           <tr>
-            <td>${persona.Gramatas ID}</td>
-            <td>${persona.Nosaukums}</td>
-            <td>${persona.Autors}</td>
-            <td>${persona.Valoda}</td>            
+            <td>${persona.gramatasID}</td>
+            <td>${persona.nosaukums}</td>
+            <td>${persona.autors}</td>
+            <td>${persona.valoda}</td>            
           </tr>
       `;
     })
