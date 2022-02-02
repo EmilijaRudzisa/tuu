@@ -16,7 +16,3 @@
 .table tbody tr :nth-of-type(even) {
 background: rgb(238, 112, 200);
 }
-
-.table tbody tr :last-of-type {
- border-bottom: 2px solid #e96af5;
-}

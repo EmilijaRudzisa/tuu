@@ -7,7 +7,7 @@ function fetchData() {
 
     return response.json();
   })
-
+// iegust datus no json feli 
   .then(data => {
     const tabula = data.map(persona => {
       return `
@@ -19,6 +19,7 @@ function fetchData() {
           </tr>
       `;
     })
+    // kura tabulas vieta no json vajag ielikt datus
     .join("");
 
     document.querySelector('#showdata').innerHTML = tabula;
@@ -30,4 +31,3 @@ function fetchData() {
 }
 
 fetchData();
-
